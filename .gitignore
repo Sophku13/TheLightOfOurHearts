@@ -79,3 +79,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset
+Content/LevelBlockout/BP_ThirdPersonCharacterAlt.uasset
+Content/LevelBlockout/BP_ThirdPersonCharacterAlt.uasset
+Content/LevelBlockout/BP_ThirdPersonCharacterAlt.uasset

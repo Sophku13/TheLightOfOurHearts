@@ -19,6 +19,11 @@
 		{
 			"Name": "Water",
 			"Enabled": true
+		},
+		{
+			"Name": "BlueprintGraphScreenshot",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5c1173b4187a4ef89623d96e1fe61042"
 		}
 	]
 }
